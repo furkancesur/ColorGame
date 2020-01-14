@@ -22,6 +22,7 @@ h1 {
     margin: 0;
 }
 
+
 #stripe{
     background: white;
     height: 30px;
@@ -31,4 +32,8 @@ h1 {
 
 .selected{
     background: blue;
+}
+
+#deneme{
+
 }
